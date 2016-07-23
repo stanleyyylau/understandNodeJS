@@ -1,25 +1,25 @@
 # Summary
 
 * [Introduction](README.md)
-* [Introduction and Setup]
+* [Introduction and Setup](allNotes/section1.md)
   * [Introduction and the goal of this Course](allNotes/1.1.md)
-  * [Big Words and NodeJS](allNotes/1.2.md)
+  * [Big Words and NodeJS](allNotes/section2.md)
   * [Watching this Course in high definition](allNotes/1.3.md)
   * [Conceptual Aside: The command line interface](allNotes/1.4.md)
   * [Command Line References](allNotes/1.5.md)
-* [V8: The javascript Engine]
+* [V8: The javascript Engine](allNotes/1.1.md)
   * [Conceptual Aside: Processors, Machine language, and C++](allNotes/2.1.md)
   * [Javascript Aside: Javascript engines and the ECMAScript Specification](allNotes/2.2.md)
   * [V8 Under the Hood](allNotes/2.3.md)
   * [Adding Features to Javascript](allNotes/2.4.md)
-* [The Node Core]()
+* [The Node Core](allNotes/section3.md)
   * [Conceptual Aside: Servers and Clients](allNotes/3.1.md)
   * [What does Javascript need to manage a Server? ](allNotes/3.2.md)
   * [The C++ Core](allNotes/3.3.md)
   * [The Javascript Core](allNotes/3.4.md)
   * [Downloading lecture Source Code](allNotes/3.5.md)
   * [Let's install and run some javascript in Node](allNotes/3.6.md)
-* [Modules, Exports, and Require]
+* [Modules, Exports, and Require](allNotes/section4.md)
   * [Conceptual Aside: Modules](allNotes/4.1.md)
   * [Javascript Aside: First-Class Functions and function expressions](allNotes/4.2.md)
   * [Let's build a Module](allNotes/4.3.md)
