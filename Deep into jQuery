@@ -1,0 +1,24 @@
+## Dive into jQuery 1
+
+we get back an array, with it's prototypal set to jquery object
+
+?
+ternery operator
+
+a function that returns a call to function constructor.
+
+keeps me away from using new keyword
+
+## part2
+
+sizzlejs is inside jquery
+
+
+## part3
+
+mathod chaining: calling one method ...
+
++ don;t type new all the time
++ methoed chaining
++ shorthand $
++ attach to global
