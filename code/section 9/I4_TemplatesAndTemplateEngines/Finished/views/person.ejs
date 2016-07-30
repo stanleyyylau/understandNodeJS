@@ -1,8 +1,13 @@
 <html>
 	<head>
+		<!-- if you use assets/style.css instead of /assets/style.css, it will request the localhost:3000/person/assets/style.css-->
 		<link href="/assets/style.css" type="text/css" rel="stylesheet" />
 	</head>
 	<body>
-		<h1>Person: <%= ID %></h1>
+		<!-- ID will be the data given to the veiw -->
+		<!-- you can use ID.length inside, JS is ok to put inside-->
+		<!-- ejs also have this thing called includes -->
+		<!-- other engines have layout, combile your corrent page to another page -->
+		<h1>Person: <%= ID.length+100*2 %></h1>
 	</body>
 </html>
